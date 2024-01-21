@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-     <a href="PROJECT__URL">📱 View on YouTube</a>
+     <a href="https://youtu.be/ZoPYA-p5XeE">📱 View on YouTube</a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>

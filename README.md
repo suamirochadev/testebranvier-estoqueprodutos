@@ -46,7 +46,7 @@ Here you list all prerequisites necessary for running your project. For example:
 How to clone your project
 
 ```bash
-git clone
+git clone testebranvier_estoqueprodutos
 ```
 
 <h3>Starting</h3>
@@ -54,7 +54,7 @@ git clone
 How to start your project
 
 ```bash
-cd 
+cd testebranvier_estoqueprodutos
 flutter run
 ```
 
